@@ -3,6 +3,7 @@ body {
   background-color: #3a3a3a;
   margin: 0;
   padding: 0;
+  color: #ffffff; /* Змінено колір тексту */
 }
 
 header {
@@ -68,10 +69,12 @@ section h3 {
   border-radius: 0%; /* Закруглені кути */
   border: 2px solid #000000; /* Рамка */
 }
+
 section p {
   font-size: 20px;
   color: #ffffff;
 }
+
 .character h3 {
   margin-top: 10px;
 }
